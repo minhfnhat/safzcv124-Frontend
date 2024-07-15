@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover a world where your well-being is our priority. Join us as we redefine comfort and satisfaction.",
+        "title": "Feeling Good? Why Settle for Less?"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover a world where your well-being is our priority. Join us as we redefine comfort and satisfaction.",
+        "title": "Feeling Good? Why Settle for Less?"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover a world where your well-being is our priority. Join us as we redefine comfort and satisfaction.",
+        "title": "Feeling Good? Why Settle for Less?"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover a world where your well-being is our priority. Join us as we redefine comfort and satisfaction.",
+        "title": "Feeling Good? Why Settle for Less?"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover a world where your well-being is our priority. Join us as we redefine comfort and satisfaction.",
+        "title": "Feeling Good? Why Settle for Less?"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover a world where your well-being is our priority. Join us as we redefine comfort and satisfaction.",
+        "title": "Feeling Good? Why Settle for Less?"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover a world where your well-being is our priority. Join us as we redefine comfort and satisfaction.",
+        "title": "Feeling Good? Why Settle for Less?"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover a world where your well-being is our priority. Join us as we redefine comfort and satisfaction.",
+        "title": "Feeling Good? Why Settle for Less?"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Feeling Good? Why Settle for Less?",
+  "subtitle": "Discover a world where your well-being is our priority. Join us as we redefine comfort and satisfaction."
+}
